@@ -1,0 +1,24 @@
+{
+  "name": "jigyasa_fend_test",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sinpea/jigyasa#readme",
+  "bugs": {
+    "url": "https://github.com/sinpea/jigyasa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinpea/jigyasa.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "fend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
